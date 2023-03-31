@@ -1,7 +1,7 @@
 - 👋 Hola, soy @Rodrigorenteria
 - 👀 Me interesa crecer como persona y ayudar
 - 🌱 Estoy aprendiendo HTML, CSS, JavaScrpit y Java
-- 💞️ Busco colaborar en.. soy nuevo en esto de la industria tecnológica 
+- 💞️ Busco colaborar en proyectos para mejorar mi expriencia laboral
 - 📫 Pueden contactarme a traves de mi correo rodrigo.omar.99@outlook.com
 
 <!---
