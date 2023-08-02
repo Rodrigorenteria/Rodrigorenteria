@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Rodrigorenteria
-- 👀 Me interesa crecer como persona y ayudar
-- 🌱 Estoy aprendiendo HTML, CSS, JavaScrpit y Java
+- 👀 Me interesa crecer en el mundo de la tecnología.
+- 🌱 Soy programador en lenguajes como HTML, CSS, JavaScrpit, Java, Python y SQL
 - 💞️ Busco colaborar en proyectos para mejorar mi expriencia laboral
 - 📫 Pueden contactarme a traves de mi correo rodrigo.omar.99@outlook.com
 
